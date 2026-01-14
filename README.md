@@ -58,6 +58,7 @@ Dans ce projet :
 
 ## 📁 Contenu du dépôt
 ```firefly-algorithm-ml-hyperparameter-optimization/
+│── firefly_comparison.png
 │── firefly_knn_optimization.ipynb
 │── README.md
 │── requirements.txt 
