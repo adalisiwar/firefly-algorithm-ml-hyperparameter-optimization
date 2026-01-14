@@ -1,0 +1,4 @@
+numpy>=1.21
+matplotlib>=3.5
+scikit-learn>=1.2
+mealpy>=1.1.5
