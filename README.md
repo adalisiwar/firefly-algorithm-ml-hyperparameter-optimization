@@ -60,5 +60,5 @@ Dans ce projet :
 ```firefly-algorithm-ml-hyperparameter-optimization/
 │── firefly_knn_optimization.ipynb
 │── README.md
-│── requirements.txt ```
+│── requirements.txt 
 
