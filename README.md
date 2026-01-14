@@ -4,6 +4,16 @@ Ce projet illustre une **application concrète du Firefly Algorithm**, une techn
 
 L’objectif est de démontrer l’impact réel du Firefly Algorithm sur les performances d’un modèle, plutôt que de se limiter à une implémentation théorique de l’algorithme.
 
+# Type de problème étudié: classification binaire (malin vs bénin)
+
+Nous nous intéressons à l’optimisation des hyperparamètres du classifieur K-Nearest Neighbors (KNN) afin de maximiser la précision (accuracy) sur un dataset réel de classification médicale : Breast Cancer Wisconsin.
+
+Dataset : Breast Cancer Wisconsin (Diagnostic)
+
+Nombre d’échantillons : 569
+
+Nombre de features : 30 caractéristiques numériques extraites d’images de biopsies
+
 ---
 
 ## 🎯 Objectif du projet
